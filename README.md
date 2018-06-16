@@ -187,7 +187,9 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 
 ### Modificaciones y puntos de mejora
 
-- Quitar visualización de cuentas operaciones pues confunde a los usuarios al momento de elegir una opración.
+- Quitar visualización de cuentas pues confunde a los usuarios al momento de elegir una opración.
+- Poder escoger cuenta antes de operación a realizar.
+- Opción de "Asegurar retiro".
 
 
 ## **Primer prototipo de Alta fidelidad**
@@ -198,28 +200,12 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 
 ## Testing del prototipo de alta fidelidad.
 
-- Mejorar la legibilidad de algunos íconos.
-- Información sobre el medio de pago de los servicios.
-- Detallar funcionalidades nuevas.
-- Hacer slider las vistas de bienvenida.
-- Modificar el flujo de Galería y edición de imágenes.
-- Resaltar la funcionalidad de grabación de rutas.
+- En los montos: mostrar mejor la opción de "otro monto".
+- Hacer flujo de "Asegurar retiro".
 
-
-![Testing](assets/docs/testing.jpg)
-![Testing](assets/testing/testing-2.png)
-![Testing](assets/testing/presencial.png)
-
-
-### Modificaciones y puntos de mejora
-
-- Corrección de los íconos elegidos.
-- Detalle de color cuando la ruta está siendo grabada.
-- Corrección de enlaces rotos. 
-- Brindar una guía al usuario en algunas funcionalidades. 
-- Flujo de edición de fotografías más práctico y entendible.
-- Agregado "Comunícate con nosotros" en el menú hamburguesa.
-- Agregado de cámara en el mapa.
+![Testing](assets/img/testing/gaincarlo-online.jpg)
+![Testing](assets/img/testing/20180615_181637.jpg)
+![Testing](assets/img/testing/kelly.jpg)
 
 ## Propuesta final.
 
@@ -227,11 +213,8 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 
 ## Implemetaciones a futuro
 
-- Reporte del clima de acuerdo a la ruta elegida. 
-- Planificación de actividades.
-- Filtro en edición de fotografías.
-- Sistema de offline.
-- Seguimiento en vivo.
+- Retiros rápidos generados según el historial del usuario.
+
 
 ## Presentación del producto
 
