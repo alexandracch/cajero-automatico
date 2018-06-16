@@ -98,6 +98,8 @@ Ocupación: Estudiante de Medicina
 
 ![Cajeros ATM - Mapa de Afinidad](assets/img/map/map.jpg)
 
+![Mapa de Afinidad](assets/img/map/map.jpg)
+
 [PDF Mapa de afinidad](https://drive.google.com/open?id=10_5Dz_qPdhDbWLa3kKu3COSYlnzyg_T7)
 
 ## **Problem Statements**
