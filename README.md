@@ -92,13 +92,13 @@ Ocupación: Estudiante de Medicina
 
 ![](assets/docs/benckmark.png)
 
-##**ANÁLISIS DE DATOS**
-
-
+## **ANÁLISIS DE DATOS**
 
 ## **Mapa de afinidad**
-![](assets/docs/benckmark.png)
-[PDF Mapa de afinidad](https://drive.google.com/drive/folders/1LAeKcdryVaXy7mTqTCDyAHT3ECFWQILs?usp=sharing)
+
+![Cajeros ATM - Mapa de Afinidad](assets/img/map/Cajeros ATM.jpg)
+[PDF Mapa de afinidad](https://drive.google.com/open?id=10_5Dz_qPdhDbWLa3kKu3COSYlnzyg_T7)
+
 ## **Problem Statements**
 
 En el proceso de investigación, encontramos el punto de mejora: hacer que las operaciones sean más rápidas, en especial los retiros. 
@@ -230,7 +230,7 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 - Google Drive
 - Google Form
 - Design Thinking
-
+- Real Time Board (Mapa de Afinidad)
 
 
 
