@@ -53,7 +53,8 @@ Ocupación: Estudiante de Psicología
 
 [Audio de la entrevista a Angela](https://drive.google.com/open?id=1cIYBC_APnwVgFrqA0TXE_nQT6STrAdH2)
 
-![Customer Journey Map Angela](assets/docs/benckmark.png)
+![Customer Journey Map Angela](assets/img/map/angela.jpg)
+![Angela](assets/img/user/angela.jpg)
 
 
 2. **Entrevista Jennifer Martinez**
@@ -64,9 +65,6 @@ Ocupación: Estudiante de Medicina
 - Jennifer sacó 20 soles de su cuenta en un cajero, lo hizo con éxito, pero aún siente que tiene que esperar mucho tiempo para tener el dinero en sus manos.
 
 [Audio de la entrevista a Jennifer](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
-
-![Customer Journey Map Angela](assets/docs/benckmark.png)
-
 
 
 ## Formularios Online:
@@ -97,8 +95,6 @@ Ocupación: Estudiante de Medicina
 ## **Mapa de afinidad**
 
 ![Cajeros ATM - Mapa de Afinidad](assets/img/map/map.jpg)
-
-![Mapa de Afinidad](assets/img/map/map.jpg)
 
 [PDF Mapa de afinidad](https://drive.google.com/open?id=10_5Dz_qPdhDbWLa3kKu3COSYlnzyg_T7)
 
