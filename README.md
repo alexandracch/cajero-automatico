@@ -18,47 +18,60 @@ Elige un banco que tenga una mala experiencia en sus cajeros automáticos y haz 
 
 ## Planificación de tiempos
 
-[Planificación de tiempos]()
+[Planificación de tiempos - Trello App](https://trello.com/b/Dpil7uIH/reto-cajeros-autom%C3%A1ticos)
 
 
 ## **RESEARCH**
 
-## Entrevistas
+## Formularios
+
+Se creó un formulario para saber cuáles eran las dificultades de la mayoría de usuarios al usar un cajero automático. También se pudo encontrar cuáles eran los bancos que tenían estas fallas en la expriencia, las edades, la afinidad y decisión de ir a cajero o ventanilla, si preferían la modalidad táctil o los botones, entre otros datos importantes.
+
+- Herramienta: Google Forms
+
+[Formulario](https://goo.gl/forms/Hr8ENVMMwYRltpi13)
 
 ### Guía de entrevista a los usuarios.
 
+Esta entrevista se realizó inmediatamente después de que el usuario hubiese tenido una experiencia en el cajero.
+
+Preguntas guía:
+
+- ¿Cómo te sentiste usando el cajero?
+- ¿Lograste terminar tu operación?
+- ¿Qué harías para mejorar la experiencia en el cajero?
 
 
-### Entrevistas realizadas
+### Entrevistas - pruebas realizadas
 
-1. **Entrevista Jean Carlo**
+1. **Entrevista Angela García**
 
-Edad: 35
-Profesión: Profesional de Marketing
+Edad: 21 años
+Profesión: Estudiante de Psicología
 
-[Jean Carlo](https://docs.google.com/presentation/d/1C1uxFMI5upQHzpqgO0Y8k8PEFb9z7ZSu8dZZjA8OgEQ/edit?usp=sharing)
+[Angela](https://docs.google.com/presentation/d/1C1uxFMI5upQHzpqgO0Y8k8PEFb9z7ZSu8dZZjA8OgEQ/edit?usp=sharing)
 
-2. **Entrevista Rocío**
+![Customer Journey Map Angela](assets/docs/benckmark.png)
 
-Edad: 21
-Profesión: estudiante
 
-[Rocío](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
+2. **Entrevista Jennifer Martinez**
 
-3. **Entrevista Alejandra**
+Edad: 19 años
+Profesión: Estudiante de Medicina
 
-Edad: 25 años.
-Profesión: Training Manager
+[Jennifer](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
 
-[Alejandra](https://docs.google.com/presentation/d/1oAfouN8p3xMu0AXDmVfWEnPyt2VmSAA6-LEh_vN_Wu4/edit?usp=sharing)
+![Customer Journey Map Angela](assets/docs/benckmark.png)
 
-## Encuesta Online:
+
+
+## Formularios Online:
 
 
 ### **Conclusiones de la encuesta online**
 
-- El 62% de los encuestados a realizado algún turismo de aventura.
-- La actividad más realizada es caminatas (65%).
+- El 46.3% usa BBVA y el 53.6% usa BCP.
+- A un 53.
 - Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación. Solo un 13% lo hace por hobby.
 - La búsqueda de información sobre estas actividades se hace principalmente en Internet en un 87%
 - Para los usuarios es de mucha importancia la opinión de otras personas.
@@ -68,8 +81,8 @@ Profesión: Training Manager
 
 ### Gráficos de los resultados de la encuesta
 
-![Encuesta Online](assets/form/encuesta.png)
-
+![Encuesta Online](assets/img/screen.png)
+[PDF Gráficos](https://drive.google.com/drive/folders/1LAeKcdryVaXy7mTqTCDyAHT3ECFWQILs?usp=sharing)
 
 ## **Benchmarck**
 
