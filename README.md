@@ -181,8 +181,15 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 
 ## Testing del Paper prototyping
 
+- Carmen Chumbes Díaz 
+
 ![Paper prototype](assets/img/testing/carmen.jpg)
+![CJM](assets/img/map/customer.jpg)
+
+
+- Hellen Chumbes Díaz
 ![Paper prototype](assets/img/testing/hellen.jpg)
+![CJM](assets/img/map/customer1.jpg)
 
 ### Modificaciones y puntos de mejora
 
