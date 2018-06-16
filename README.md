@@ -47,9 +47,11 @@ Preguntas guía:
 1. **Entrevista Angela García**
 
 Edad: 21 años
-Profesión: Estudiante de Psicología
+Ocupación: Estudiante de Psicología
 
-[Angela](https://docs.google.com/presentation/d/1C1uxFMI5upQHzpqgO0Y8k8PEFb9z7ZSu8dZZjA8OgEQ/edit?usp=sharing)
+- Angela quiso sacar 15 soles de un cajero automático y no pudo, pues este solo cuenta con billetes a partir de 20 soles. No completó la operación pero sacó un voucher con el registro de movimientos.
+
+[Angela](https://drive.google.com/open?id=1cIYBC_APnwVgFrqA0TXE_nQT6STrAdH2)
 
 ![Customer Journey Map Angela](assets/docs/benckmark.png)
 
@@ -57,7 +59,9 @@ Profesión: Estudiante de Psicología
 2. **Entrevista Jennifer Martinez**
 
 Edad: 19 años
-Profesión: Estudiante de Medicina
+Ocupación: Estudiante de Medicina
+
+- Jennifer sacó 20 soles de su cuenta en un cajero, lo hizo con éxito, pero aún siente que tiene que esperar mucho tiempo para tener el dinero en sus manos.
 
 [Jennifer](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
 
@@ -71,13 +75,13 @@ Profesión: Estudiante de Medicina
 ### **Conclusiones de la encuesta online**
 
 - El 46.3% usa BBVA y el 53.6% usa BCP.
-- A un 53.
-- Lo que les impulsó a realizar estas actividades fue el mismo hecho de viajar y en algunos casos, por recomendación. Solo un 13% lo hace por hobby.
-- La búsqueda de información sobre estas actividades se hace principalmente en Internet en un 87%
-- Para los usuarios es de mucha importancia la opinión de otras personas.
-- En un 87%, las personas suelen llamar a un familiar o amigo, para notificar que llegó a su destino.
-- Los servicios que a las personas le interesa conocer su ubicación son: hoteles, restaurantes y lugares turísticos. Y para encontrar estos servicios, suelen buscar los datos en Internet o consultar a una persona del lugar.
-- Para decidir a qué lugar ir de un servicio determinado, la persona se guía de las opiniones y experiencias de otros usuarios. 
+- La mayoría de personas quisiera poder sacar ontos pequeños como 5 o 10 soles.
+- Más personas prefieren un cajero automático táctil.
+- Para los usuarios es de mucha importancia que las operaciones sean más rápidas.
+- Quieren usar el cajero automático sin necesidad de una tarjeta o solo con uso biométrico.
+- Monedas y billetes en un mismo cajero.
+- La mayoría de personas se siente medianamente segura con su tarjeta en el bolsillo.
+- La mayoría de personas cree que usar un cajero es fácil. 
 
 ### Gráficos de los resultados de la encuesta
 
@@ -86,13 +90,25 @@ Profesión: Estudiante de Medicina
 
 ## **Benchmarck**
 
-![Benckmark](assets/docs/benckmark.png)
+![](assets/docs/benckmark.png)
 
 ##**ANÁLISIS DE DATOS**
 
 ## **Problem Statements**
 
-En el proceso de investigación, encontramos el problema de que los usuarios suelen utilizar Google Maps para sus viajes, ya que les brinda la información que necesitan. Por tanto, nuestro enfoqué se centró el ofrecer un servicio más completo.
+En el proceso de investigación, encontramos el punto de mejora: hacer que las operaciones sean más rápidas, en especial los retiros. 
+
+- Se escogió el BBVA Banco Continental porque es uno de los banco que más uso tiene.
+
+## Flujo de una operación actual del banco:
+
+[Flujo de Retiros de dinero BBVA](https://www.bbvacontinental.pe/personas/canales/cajeros-automaticos/#ficha-content-2)
+![Revisión de flujo](assets/img/flow/1.jpg)
+![Revisión de flujo](assets/img/flow/2.jpg)
+![Revisión de flujo](assets/img/flow/3.jpg)
+![Revisión de flujo](assets/img/flow/4.jpg)
+![Revisión de flujo](assets/img/flow/5.jpg)
+![Revisión de flujo](assets/img/flow/6.jpg)
 
 ## **HMW**
 
@@ -222,7 +238,7 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Propuesta final.
 
-[Outdoor](https://marvelapp.com/65ga006/screen/40536153)
+[Mejora de experiencia cajeros BBVA](https://marvelapp.com/38e0e9j/screen/44386899)
 
 ## Implemetaciones a futuro
 
@@ -234,12 +250,13 @@ Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vi
 
 ## Presentación del producto
 
-[Presentación Outdoor](https://www.emaze.com/@AOLCZTQZI/outdoor)
+[Presentación Cajeros Automáticos BBVA]()
 
 
 ## HERRAMIENTAS UTILIZADAS
 
-- Adobe Ilustrator
+- Testing
+- Customer Journey Map
 - Figma
 - Marvel
 - Google Drive
