@@ -112,18 +112,28 @@ En el proceso de investigación, encontramos el punto de mejora: hacer que las o
 
 ## **HMW**
 
-- ¿Cómo podríamos brindar agrupar las rutas de acuerdo a cada actividad?
-- ¿Cómo podríamos generar una aplicación que integre servicios, rutas y turismo?
+- ¿Cómo podríamos brindar un mejor servicio en menos tiempo?
+- ¿Cómo podríamos generar un sistema con menos pasos?
+- ¿Cómo podríamos implementar montos?
 - ¿Cómo podríamos mostrar un flujo de manera sencilla y directa?
 
 
 ## **PROPUESTA DE PRODUCTO**
 
-Nuestra propuesta es una aplicación destinado a los que les encanta viajar y vivir experiencias de aventura y salir del turismo tradicional. En una sola aplicación ofrecemos la búsqueda de rutas por actividad, servicios y atracciones que se pueden encontrar a lo largo de la ruta. 
+Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendrá menos pasos a seguir antes de completar una operación.
 
-## **User persona**
+## **User persona y Storytelling**
 
-![User persona](assets/docs/user-persona.jpg)
+- Carlos García
+![User persona](assets/img/user-persona/user1.png)
+
+![User persona](assets/img/user-persona/story1.png)
+
+- Hellen Chumbes
+
+![User persona](assets/img/user-persona/user2.png)
+
+![User persona](assets/img/user-persona/story2.png)
 
 ## **IDEACIÓN**
 
