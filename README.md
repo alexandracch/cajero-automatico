@@ -51,7 +51,7 @@ Ocupación: Estudiante de Psicología
 
 - Angela quiso sacar 15 soles de un cajero automático y no pudo, pues este solo cuenta con billetes a partir de 20 soles. No completó la operación pero sacó un voucher con el registro de movimientos.
 
-[Angela](https://drive.google.com/open?id=1cIYBC_APnwVgFrqA0TXE_nQT6STrAdH2)
+[Audio de la entrevista a Angela](https://drive.google.com/open?id=1cIYBC_APnwVgFrqA0TXE_nQT6STrAdH2)
 
 ![Customer Journey Map Angela](assets/docs/benckmark.png)
 
@@ -63,7 +63,7 @@ Ocupación: Estudiante de Medicina
 
 - Jennifer sacó 20 soles de su cuenta en un cajero, lo hizo con éxito, pero aún siente que tiene que esperar mucho tiempo para tener el dinero en sus manos.
 
-[Jennifer](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
+[Audio de la entrevista a Jennifer](https://docs.google.com/presentation/d/1dSuGN-A3hd0djoG3d74doMmSCXUFutPqpNWY789_pj4/edit?usp=sharing)
 
 ![Customer Journey Map Angela](assets/docs/benckmark.png)
 
@@ -94,6 +94,11 @@ Ocupación: Estudiante de Medicina
 
 ##**ANÁLISIS DE DATOS**
 
+
+
+## **Mapa de afinidad**
+![](assets/docs/benckmark.png)
+[PDF Mapa de afinidad](https://drive.google.com/drive/folders/1LAeKcdryVaXy7mTqTCDyAHT3ECFWQILs?usp=sharing)
 ## **Problem Statements**
 
 En el proceso de investigación, encontramos el punto de mejora: hacer que las operaciones sean más rápidas, en especial los retiros. 
@@ -137,67 +142,41 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 
 ## **IDEACIÓN**
 
-### Lista de ideas
-
-![Ideas](assets/docs/ideas.png)
-
-### Priorización
-
-![Priorización](assets/docs/priorizacion.png)
-
 ### Feature List
 
-![Priorización](assets/docs/featurelist.png)
+![Priorización](assets/img/list/feature.png)
 
 ## User flow
 
-[User Flow](https://docs.google.com/presentation/d/1KSLhnJD7F85ECQSR1zEHPnqywCaOtG3UM9KNIhhWYzw/edit?usp=sharing)
-
-## BUSINESS MODEL CANVAS
-
-![Business Model Canvas](assets/docs/b-m-c.jpg)
+[User Flow]()
 
 ## Paper prototyping 
 
 ### Todos los flujos
 
-![Paper prototype](assets/prototipo/todos-prototipos.jpg)
-
 ### Bienvenida
 
-![Paper prototype](assets/prototipo/bienvenida.jpg)
+![Paper prototype](assets/img/prototipo/clave.jpg)
 
-### Registro
+### Operación
 
-![Paper prototype](assets/prototipo/registro.jpg)
+![Paper prototype](assets/img/prototipo/operación.jpg)
 
-### Ingresar destino y trazar ruta
+### Elige un tipo de moneda
 
-![Paper prototype](assets/prototipo/ingresa-destino.jpg)
+![Paper prototype](assets/img/prototipo/moneda.jpg)
 
-### Servicios y atractivos que se encuentran en la ruta
+### Elige un monto de dinero
 
-![Paper prototype](assets/prototipo/servicios-atractivos.jpg)
+![Paper prototype](assets/img/prototipo/monto.jpg)
 
-### Rutas guardadas
+### Elige modalidad de voucher
 
-![Paper prototype](assets/prototipo/listaderutas.jpg)
+![Paper prototype](assets/img/prototipo/voucher.jpg)
 
-### Grabar ruta
+### Final de la operación
 
-![Paper prototype](assets/prototipo/grabacion.jpg)
-
-### Galería de fotos
-
-![Paper prototype](assets/prototipo/galería.jpg)
-
-### Alertas
-
-![Paper prototype](assets/prototipo/alertas.jpg)
-
-### Descarga de rutas
-
-![Paper prototype](assets/prototipo/descargarutas.jpg)
+![Paper prototype](assets/img/prototipo/final.jpg)
 
 
 
