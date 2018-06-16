@@ -203,7 +203,7 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 - En los montos: mostrar mejor la opción de "otro monto".
 - Hacer flujo de "Asegurar retiro".
 
-![Testing](assets/img/testing/gaincarlo-online.jpg)
+![Testing](assets/img/testing/gaincarlo-online.png)
 ![Testing](assets/img/testing/20180615_181637.jpg)
 ![Testing](assets/img/testing/kelly.jpg)
 
