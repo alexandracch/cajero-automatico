@@ -178,25 +178,21 @@ Nuestra propuesta es un nuevo sistema para cajeros táctiles. Este sistema tendr
 
 ![Paper prototype](assets/img/prototipo/final.jpg)
 
-
-
 ## ITERACIÓN
 
 ## Testing del Paper prototyping
 
+![Paper prototype](assets/img/testing/carmen.jpg)
+![Paper prototype](assets/img/testing/hellen.jpg)
+
 ### Modificaciones y puntos de mejora
 
-- Hacer el registro más entendible, poner usuario y contraseña primero, luego los botones de Gmail y Facebook.
-- Hacer la bienvenidad un poco más llamativa.
+- Quitar visualización de cuentas operaciones pues confunde a los usuarios al momento de elegir una opración.
 
 
 ## **Primer prototipo de Alta fidelidad**
 
-[Outdoor](https://marvelapp.com/65di1jd/screen/40514833)
-
-
-
-## Modelo del producto
+[BBVA Cajero Automático](https://marvelapp.com/59i6h65/screen/44384979)
 
 ## SEGUNDA ITERACIÓN
 
